@@ -1,0 +1,18 @@
+<?php
+    /*
+    Win10
+    */
+    echo"当前文件路径:".__FILE__;
+    echo"<br>当前行数:".__LINE__;
+    echo"<br>PHP版本:".PHP_VERSION;
+    echo"<br>当前系统:".PHP_OS;
+    echo"<br>圆周率:".pi();
+    echo"<br>".date('Y年m月d日H点i分s秒');
+    echo"<br>".date('Y年');
+    echo"<br>".date('m月');
+    echo"<br>".date('d日');
+    echo"<br>".date('H点');
+    echo"<br>".date('i分');
+    echo"<br>".date('s秒');
+    echo"<br>PHP".pi();
+?>
